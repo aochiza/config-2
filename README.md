@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/29895f40-e764-4506-816d-d8a2a672756f)
+
 # Hi there, I'm [ksen](https://daniilshat.ru/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 # Конфигурационное управление 2 д/з
 ### ﻿Задание №2, вариант №2
